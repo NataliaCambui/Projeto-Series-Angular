@@ -1,0 +1,20 @@
+.mat-toolbar-row, .mat-toolbar-single-row  {
+    justify-content: space-around;
+}
+
+.exemple-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-mdc-fab.mat-primary {
+    background-color: white;
+    --mat-fab-foreground-color: red;
+}
+
+.home {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(224, 3, 3);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    
+}
+

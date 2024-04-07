@@ -1,0 +1,22 @@
+.card__int {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #000000;
+    /* font-size:xx-large; */
+    align-items: center;
+    
+}
+
+.mat-class-card {
+    padding: 5px;
+    margin: 25px;
+    border-radius: 4px 2px/ 2px 4px;
+    border: 2px solid white;
+
+}
+
+.card__image {
+    width: 300px;
+    height: 400px;
+}

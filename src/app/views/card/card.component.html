@@ -1,0 +1,9 @@
+<div class="card">
+    <mat-tab label="NatyFlix" class="card__int">
+        <ng-container *ngFor="let serie of series, let i = index" style="margin:0.5%;">
+            <mat-card class="mat-class-card">
+                <img mat-card-image class="card__image" src="{{serie.url}}" alt="Poster" (click)="openDialog(serie)">
+            </mat-card>
+        </ng-container>
+    </mat-tab>
+</div>
