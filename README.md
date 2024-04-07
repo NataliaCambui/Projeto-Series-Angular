@@ -1,4 +1,8 @@
-# MyApp
+# Meu projeto de series
+
+![Captura de tela 2024-04-07 195437](https://github.com/NataliaCambui/Projeto-Series-Angular/assets/70337034/d487a992-7893-4f74-82b1-620e2817fe2f)
+![Captura de tela 2024-04-07 195457](https://github.com/NataliaCambui/Projeto-Series-Angular/assets/70337034/0eb27c85-6647-4221-97b3-a3dea6737367)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
